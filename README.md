@@ -17,8 +17,7 @@
 
 # 💡 Improvement to the app
 - [x] if a user clicks on a single transaction a function to triger fetching of all the details for the transaction is called and the data is    displayed to the user as a modal pop up
-=======
-- [x] if a user clicks on a single transaction a function to triger fetching of all the details for the transaction is called and the data is    displayed to the user as a modal pop up
+
 
 
 
